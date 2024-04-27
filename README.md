@@ -1,4 +1,4 @@
-## Moovup Technical Test Q1
+## Technical Test Q1
 
 Development Environment
 
