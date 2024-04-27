@@ -16,7 +16,7 @@ Kotlin: 221-1.6.21-release-337-IJ5591.52
 ```
 
 ## Source Code
-<https://github.com/benhk2005/moovup-test-q1/blob/main/src/main/java/Task1.java>
+[https://github.com/benhk2005/moovup-test-q1/blob/main/src/main/java/Task1.java](https://github.com/benhk2005/technical-test-q1/blob/main/src/main/java/Task1.java)
 
 ## Program Result
 ```
